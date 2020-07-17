@@ -2,6 +2,6 @@
 #include <windows.h>
 int main()
 {
-    printf("Hello World\n");
+    printf("Hello vs code\n");
     system("pause");
 }
